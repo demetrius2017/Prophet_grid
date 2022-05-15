@@ -83,19 +83,21 @@
 
 # Установка и настройка Prophet Grid Bot
 
-Требования:
-Python 3.7.x (так как Prophet от FB не встанет на более современные версии)
-apprise==0.9.7
-beautifulsoup4==4.11.1
-ciso8601==2.2.0
-pandas==1.3.0
-plotly==5.6.0
-prophet==1.0.1
-py3cw==0.0.36
-requests==2.27.1
-san==1.2.0
-sanpy==0.9.1
-scikit_learn==1.1.0
+Зависимости:
+•	Python 3.7.x (так как Prophet от FB не встанет на более современные версии)
+•	apprise==0.9.7
+•	beautifulsoup4==4.11.1
+•	ciso8601==2.2.0
+•	pandas==1.3.0
+•	plotly==5.6.0
+•	prophet==1.0.1
+•	py3cw==0.0.36
+•	requests==2.27.1
+•	san==1.2.0
+•	sanpy==0.9.1
+•	scikit_learn==1.1.0
+
+
 
 # Настроить API и аккаунт в 3commas.com
 https://3commas.io/ru/api_access_tokens
@@ -106,13 +108,14 @@ https://3commas.io/ru/api_access_tokens
 # Настроить _gridbot.ini
 
 [settings]
-timezone = Europe/Amsterdam
-timeinterval = 3600 #интервал обновления
-debug = False
-logrotate = 7
-botids = [13215**]
-mode = trade # trade - если реальная торговля и redbag для тестрирования
-3c-apikey = *****9a595349ddb2fb6429484ee51dfcf7cbeb2c3c41a2bbf8bacdc2bc2047
-3c-apisecret = *************------------------------------*****************
-notifications = False
-notify-urls = ['notify-url1', 'notify-url2']
+•	timezone = Europe/Amsterdam
+•	timeinterval = 3600 #интервал обновления
+•	debug = False
+•	logrotate = 7
+•	botids = [13215**]
+•	mode = trade # trade - если реальная торговля и redbag для тестрирования
+•	3c-apikey = *****9a595349ddb2fb6429484ee51dfcf7cbeb2c3c41a2bbf8bacdc2bc2047
+•	3c-apisecret = *************------------------------------*****************
+•	notifications = False
+•	notify-urls = ['notify-url1', 'notify-url2']
+
