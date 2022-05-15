@@ -119,10 +119,10 @@ mode = trade # trade - если реальная торговля и redbag дл
 notifications = False  
 notify-urls = ['notify-url1', 'notify-url2']  
 
-#Поддержка
-Возникли проблемы? Свяжитесь со мной, я постараюсь помочь, насколько смогу.
-Автор / Контакт
-Dmitry Nazarov
-Контакт Telegram: https://t.me/demetrius_i
+#Поддержка  
+Возникли проблемы? Свяжитесь со мной, я постараюсь помочь, насколько смогу.  
+Автор / Контакт  
+Dmitry Nazarov  
+Контакт Telegram: https://t.me/demetrius_i  
 ![image](https://user-images.githubusercontent.com/30444197/168467157-cd09d7e0-68bf-44b1-9f57-08fcbcbbf324.png)
 
