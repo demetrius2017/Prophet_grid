@@ -107,7 +107,7 @@ https://3commas.io/ru/api_access_tokens
 
 # Настроить _gridbot.ini
 
-[settings]
+[settings]  
 •	timezone = Europe/Amsterdam  
 •	timeinterval = 3600 #интервал обновления  
 •	debug = False  
