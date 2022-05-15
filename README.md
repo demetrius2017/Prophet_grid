@@ -108,14 +108,14 @@ https://3commas.io/ru/api_access_tokens
 # Настроить _gridbot.ini
 
 [settings]  
-•	timezone = Europe/Amsterdam  
-•	timeinterval = 3600 #интервал обновления  
-•	debug = False  
-•	logrotate = 7  
-•	botids = [13215**]  
-•	mode = trade # trade - если реальная торговля и redbag для тестрирования  
-•	3c-apikey = *****9a595349ddb2fb6429484ee51dfcf7cbeb2c3c41a2bbf8bacdc2bc2047  
-•	3c-apisecret = *************------------------------------*****************  
-•	notifications = False  
-•	notify-urls = ['notify-url1', 'notify-url2']  
+timezone = Europe/Amsterdam  
+timeinterval = 3600 #интервал обновления  
+debug = False  
+logrotate = 7  
+botids = [13215**]  
+mode = trade # trade - если реальная торговля и redbag для тестрирования  
+3c-apikey = *****9a595349ddb2fb6429484ee51dfcf7cbeb2c3c41a2bbf8bacdc2bc2047  
+3c-apisecret = *************------------------------------*****************  
+notifications = False  
+notify-urls = ['notify-url1', 'notify-url2']  
 
